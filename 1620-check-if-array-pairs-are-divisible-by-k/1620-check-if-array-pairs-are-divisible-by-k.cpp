@@ -1,30 +1,29 @@
 class Solution {
 public:
-    Solution(){
-        ios_base::sync_with_stdio(false); cin.tie(NULL);
-    }
     bool canArrange(vector<int>& arr, int k) {
-        bool can = true;
-        int mp[k];
-        memset(mp, 0, sizeof(mp));
+        int size = arr.size();
 
-        // Count occurrences of each remainder
-        for (auto &x : arr) {
-            x = ((x % k) + k) % k; // Ensure non-negative remainder
-            mp[x]++;
+        unordered_map<int, int> valuesFrequency;
+        // Step 1: Adding the frequency into the map
+        for(int index = 0; index < size; index++){
+            int temp = ((arr[index] % k) + k) % k;
+            valuesFrequency[temp]++;
         }
-
-        // Check pairing conditions
-        for (int i = 0; i < k; ++i) {
-            if (i == 0) {
-                // Remainder 0 must appear in even count
-                can &= mp[i] & 1 ^ 1; 
-                continue;
+        // step 2: Checking the case for the 0 element in map
+        if(valuesFrequency.find(0) != valuesFrequency.end()){
+            if(valuesFrequency[0] % 2 != 0) return false;
+            valuesFrequency.erase(0);
+        }
+        // Step 2: Iterate in map and check whether the required element present
+        for(auto value : valuesFrequency){
+            int findKey = k - value.first;
+            if(valuesFrequency.find(findKey) == valuesFrequency.end()){
+                return false;
             }
-            int req = k - i;
-            can &= mp[req] == mp[i]; // Remainders must match
+            if(valuesFrequency[value.first] != valuesFrequency[findKey]){
+                return false;
+            }
         }
-
-        return can;
+        return true;
     }
 };
