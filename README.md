@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [0538-convert-bst-to-greater-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -181,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Simulation
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
