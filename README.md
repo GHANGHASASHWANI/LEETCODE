@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
+| [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Binary Search Tree
 |  |
