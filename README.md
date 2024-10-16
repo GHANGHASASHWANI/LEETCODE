@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0062-unique-paths) |
+| [0343-integer-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0343-integer-break) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0343-integer-break) |
 | [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
