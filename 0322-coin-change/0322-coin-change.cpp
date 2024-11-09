@@ -10,7 +10,7 @@ public:
         for(int startIndex = 0; startIndex < coins.size(); startIndex++){
             if(amount - coins[startIndex] < 0) continue;
             minimum = min(minimum, minimizeCoins(coins, amount - coins[startIndex], dp));
-        }
+        }   
 
         return dp[amount] = 1 + minimum;
     }
@@ -18,5 +18,6 @@ public:
         vector< long long > dp(amount + 1, -1);
         long long answer = minimizeCoins(coins, amount, dp);
         return answer != 1e8 + 1 ? answer : -1;
+
     }
 };
