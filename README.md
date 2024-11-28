@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 ## Doubly-Linked List
 |  |
