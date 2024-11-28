@@ -15,7 +15,17 @@ public:
     }
     int numTrees(int n) {
         dp.clear();
-        dp.resize(20, -1);
-        return totalWays(n);
+        dp.resize(20, 0);
+        // return totalWays(n);
+
+        // Bottom Up 
+        dp[0] = dp[1] = 1;
+        dp[2] = 2;
+        for(int i = 3; i <= n; i++){
+            for(int k = 1; k <= i; k++){
+                dp[i] += dp[k - 1] * dp[i - k];
+            }
+        }
+        return dp[n];
     }
 };
