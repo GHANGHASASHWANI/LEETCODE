@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1047-maximize-sum-of-array-after-k-negations) |
