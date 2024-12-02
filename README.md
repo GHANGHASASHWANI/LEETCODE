@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 ## Doubly-Linked List
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
 |  |
