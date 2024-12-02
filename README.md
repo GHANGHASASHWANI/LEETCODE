@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
+| [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
