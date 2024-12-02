@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1923-sentence-similarity-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1923-sentence-similarity-iii) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0917-boats-to-save-people](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -369,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
