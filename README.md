@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 ## Design
