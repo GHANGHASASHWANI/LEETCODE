@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
         int size = prices.size();
-        // vector<int> answer(size, 0);
+        stack<int> nse;
+        vector<int> answer(size, 0);
 
-        for(int index = 0; index < size; index ++){
-            int value = prices[index];
-            for(int indexj = index + 1; indexj < size; indexj++){
-                if(prices[indexj] <= value){
-                    prices[index]-=prices[indexj];
-                    break;
-                }
-            }
-            
+        for (int i = size - 1; i >= 0; i--) {
+            while (!nse.empty() && nse.top() > prices[i])
+                nse.pop();
+            if (!nse.empty())
+                answer[i] = nse.top() * (-1);
+            nse.push(prices[i]);
         }
-
-        return prices;
+        for (int i = 0; i < prices.size(); i++) {
+            answer[i] += prices[i];
+        }
+        return answer;
     }
 };
