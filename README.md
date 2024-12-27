@@ -487,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
