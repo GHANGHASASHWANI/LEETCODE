@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
+| [2562-count-ways-to-build-good-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
 |  |
