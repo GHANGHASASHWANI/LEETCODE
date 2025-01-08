@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0046-permutations) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
