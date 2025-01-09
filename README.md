@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0859-design-circular-deque) |
 | [2868-continuous-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Breadth-First Search
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1002-maximum-width-ramp) |
