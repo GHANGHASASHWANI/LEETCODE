@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
