@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1002-maximum-width-ramp) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
