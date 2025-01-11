@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
+| [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0605-can-place-flowers) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
