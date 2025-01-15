@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
+| [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Brainteaser
 |  |
