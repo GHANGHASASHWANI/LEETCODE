@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
