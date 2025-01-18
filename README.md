@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
 | [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
