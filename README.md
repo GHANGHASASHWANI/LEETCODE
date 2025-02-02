@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1923-sentence-similarity-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
