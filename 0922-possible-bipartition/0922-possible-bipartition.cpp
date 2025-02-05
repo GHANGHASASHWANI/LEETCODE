@@ -1,35 +1,34 @@
 class Solution {
 public:
-    bool dfs(int node, int c, vector<int> &color, vector<vector<int>> &adjlist) {
-        color[node] = c;
-        
-        for (auto neighbour : adjlist[node]) {
-            if (color[neighbour] == -1) { 
-                if (!dfs(neighbour, 1 - c, color, adjlist)) return false;
-            } 
-            else if (color[neighbour] == color[node]) { 
+
+    int isCycle(int node, int parent,int color, vector< int > &visited, vector<vector<int>> &adjlist){
+        visited[node] = color;
+
+        for(auto neighbour : adjlist[node]){
+            if(visited[neighbour] == -1){
+                if(!isCycle(neighbour, node, 1 - color, visited, adjlist)) return false;
+            }
+            else if(visited[neighbour] == visited[node]){
                 return false;
             }
         }
-        
         return true;
     }
-    
-    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
-        vector<vector<int>> adjlist(n + 1);
-        vector<int> color(n + 1, -1); 
 
-        for (auto it : dislikes) {
+    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
+        vector<vector< int >> adjlist(n+1);
+        vector< int > visited(n+1, -1);
+        for(auto it : dislikes){
             adjlist[it[0]].push_back(it[1]);
             adjlist[it[1]].push_back(it[0]);
         }
         
-        for (int i = 1; i <= n; i++) {
-            if (color[i] == -1) {
-                if (!dfs(i, 0, color, adjlist)) return false;
+        for(int i = 1; i <= n; i++){
+            if(visited[i] == -1){
+                if(!isCycle(i, -1,0, visited, adjlist)) return false;
             }
+           
         }
-        
-        return true;
+        return true; 
     }
 };
