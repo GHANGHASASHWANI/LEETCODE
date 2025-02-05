@@ -30,7 +30,6 @@ public:
     }
 
     int solve(int target, int k, vector< vector< int >> &dp){
-        // if(k == 1) return dp[target][0];
         if(k == 0) return target;
 
         int j = log2(k);
