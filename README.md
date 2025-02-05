@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
