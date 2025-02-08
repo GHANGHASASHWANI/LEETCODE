@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2434-design-a-number-container-system](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0859-design-circular-deque) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [2434-design-a-number-container-system](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
 |  |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2868-continuous-subarrays) |
