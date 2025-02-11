@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
+| [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
 |  |
