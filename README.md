@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0343-integer-break) |
 | [0797-rabbits-in-forest](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0343-integer-break) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
