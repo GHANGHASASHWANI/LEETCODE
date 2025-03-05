@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
