@@ -10,43 +10,31 @@
  */
 class Solution {
 public:
-    void merge(ListNode* &list1, ListNode* &list2){
-           if(list1 && list2 && list1->val <= list2->val){
-            ListNode* dummy = list1->next;
-            list1->next = list2;
-            merge(dummy, list2);
-           }
-           else if(list1 && list2 && list1->val >= list2->val){
-            ListNode* dummy = list2->next;
-            list2->next = list1;
-            merge(list1, dummy);
-           }
-           
-            if(!list1 && list2){
-            list1  = list2;
-            return;
-           }else if(!list2 && list1){
-            list2 = list1;
-            return;
-           }
-    }
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* ans;
-        if(!list1 && !list2){
-            return NULL;
+        ListNode* temp1=list1;
+        ListNode* temp2=list2;
+
+        ListNode* ans=new ListNode(-1);
+        ListNode* head=ans;
+
+        while(temp1 && temp2){
+            if(temp1->val<=temp2->val){
+                ans->next=temp1;
+                ans=ans->next;
+                temp1=temp1->next;
+            }else{
+                ans->next=temp2;
+                ans=ans->next;
+                temp2=temp2->next;
+
+            }
         }
-        if(!list1){
-            return list2;
+        if(temp1){
+            ans->next=temp1;
         }
-        if(!list2){
-            return list1;
+        if(temp2){
+            ans->next=temp2;
         }
-        if(list1-> val <= list2->val){
-            ans = list1;
-        }else{
-            ans = list2;
-        }
-        merge(list1, list2);
-        return ans;
+        return head->next;
     }
 };
