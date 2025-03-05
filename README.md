@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0917-boats-to-save-people](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0917-boats-to-save-people) |
