@@ -1,35 +1,34 @@
 class Solution {
 public:
+    void DFS(int v, vector<vector< int >> &adj, vector< bool > & vis){
+        vis[v] = true;
 
-    void bfs(int node, vector<vector< int >> &isConnected , vector<int> &visited){
-        visited[node] = 1;
-
-        queue< int > qu;
-        qu.push(node);
-        while(qu.size()){
-            int temp = qu.front();
-            qu.pop();
-            for(int i = 0; i< isConnected[temp-1].size(); i++){
-                if(i != temp-1){
-                    if(visited[i+1] == 0 && isConnected[temp-1][i] == 1){
-                        visited[i+1] = 1;
-                        qu.push(i+1);
-                    }
-                }
+        for(auto & i : adj[v]){
+            if(! vis[i]){
+                DFS(i, adj, vis);
             }
         }
     }
-
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        vector< int> visited(n+1, 0);
-        int answer  = 0;
-        for(int i = 1; i <= n ; i++){
-            if(visited[i] != 1){
-                answer++;
-                bfs(i, isConnected, visited);
+        int vertex = isConnected.size();
+        vector<vector<int>> adj(vertex);
+        vector<bool> vis(vertex, false);
+        for (int i = 0; i < isConnected.size(); i++) {
+            for (int j = 0; j < isConnected[0].size(); j++) {
+                if (i != j && isConnected[i][j]) {
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
             }
         }
-        return answer;
+
+        int ans  = 0;
+        for(int i = 0; i < isConnected.size(); i++){
+            if(! vis[i]){
+                DFS(i, adj, vis);
+                ans++;
+            }
+        }
+        return ans;
     }
 };
