@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Graph
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
@@ -665,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2868-continuous-subarrays) |
