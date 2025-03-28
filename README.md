@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2145-grid-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2145-grid-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2662-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
