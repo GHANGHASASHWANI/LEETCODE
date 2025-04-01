@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 ## Counting
