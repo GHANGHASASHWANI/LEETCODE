@@ -26,10 +26,19 @@ private:
         return dp[curr][prev - '0'] = min(flip, nonFlip);
     }
 public:
+    // int minFlipsMonoIncr(string s) {
+    //     int n = s.size();
+    //     dp.clear();
+    //     dp.resize(n+1, vector<int> (2, -1));
+    //     return fn(0, '0', s);
+    // }
     int minFlipsMonoIncr(string s) {
-        int n = s.size();
-        dp.clear();
-        dp.resize(n+1, vector<int> (2, -1));
-        return fn(0, '0', s);
+        int ones = 0, flips = 0;
+        for(int i =0; i < s.size(); i++){
+            if(s[i] == '1') ones++;
+            else flips++;
+            flips = min(flips, ones);
+        }
+        return flips;
     }
 };
