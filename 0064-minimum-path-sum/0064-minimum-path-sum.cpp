@@ -1,20 +1,23 @@
 class Solution {
-public:
-vector<vector<int>> dp;
-    int shortestPath(int row, int col, vector<vector<int>> &grid){
-        if(row == grid.size() -1 && col == grid[0].size() -1) return grid[row][col];
-        if(row >=grid.size() || col >= grid[0].size()) return 10000005;
+private:
+    vector<vector<int>> dp;
+    int fn(int r, int c, vector<vector<int>>& grid) {
+        if (r >= grid.size() || c >= grid[0].size())
+            return 1e5;
+        if(r == grid.size() - 1 && c == grid[0].size() - 1) return grid[r][c];
 
-        if(dp[row][col] != -1) return dp[row][col];
+        if(dp[r][c] != -1) return dp[r][c];
 
-        int left = grid[row][col] + shortestPath(row + 1, col, grid);
-        int right = grid[row][col] + shortestPath(row, col +1, grid);
-
-        return dp[row][col] = min(left, right);
+        int right = fn(r, c + 1, grid);
+        int down = fn(r + 1, c, grid);
+        
+        return dp[r][c] = grid[r][c] + min(right, down);
     }
+
+public:
     int minPathSum(vector<vector<int>>& grid) {
         dp.clear();
-        dp.resize(205, vector<int> (205, -1));
-        return shortestPath(0, 0, grid);
+        dp.resize(grid.size(), vector<int> (grid[0].size(), -1)); 
+        return fn(0, 0, grid); 
     }
 };
