@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
