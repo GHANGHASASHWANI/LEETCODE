@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
+| [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0688-knight-probability-in-chessboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
