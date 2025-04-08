@@ -17,20 +17,20 @@ private:
     //     return ans;
     // }
 
-    vector<vector< int >> dp;
+    // vector<vector< int >> dp;
     int mod = 1e9 + 7;
-    int fn(int i, int j, vector< unordered_map< char, int>> &fq, string &t, vector<string> &words){
-        if(i >= t.size()) return 1;
-        if(j >= words[0].size()) return 0;
-        if(dp[i][j] != -1) return dp[i][j];
+    // int fn(int i, int j, vector< unordered_map< char, int>> &fq, string &t, vector<string> &words){
+    //     if(i >= t.size()) return 1;
+    //     if(j >= words[0].size()) return 0;
+    //     if(dp[i][j] != -1) return dp[i][j];
 
 
-        int notTake = fn(i, j+1, fq, t, words);
+    //     int notTake = fn(i, j+1, fq, t, words);
 
-        int take =(1LL*fq[j][t[i]] * fn(i+1, j+1, fq, t, words))%mod;
+    //     int take =(1LL*fq[j][t[i]] * fn(i+1, j+1, fq, t, words))%mod;
 
-        return dp[i][j] = (notTake % mod + take%mod)%mod;
-    }
+    //     return dp[i][j] = (notTake % mod + take%mod)%mod;
+    // }
 
 
 public:
@@ -43,10 +43,25 @@ public:
             }
         }
 
-        dp.clear();
-        dp.resize(target.size()+1, vector<int> (words[0].size() +1, -1));
+        // dp.clear();
+        // dp.resize(target.size()+1, vector<int> (words[0].size() +1, -1));
 
-        return fn(0, 0, fq, target, words);
+        // return fn(0, 0, fq, target, words);
 
+        vector<vector<int>> dp(target.size()+1, vector<int> (words[0].size() +1, 0));
+
+        for (int j = 0; j <= words[0].size(); j++) {
+            dp[target.size()][j] = 1;
+        }
+
+        for(int i = target.size()-1; i >= 0; i--){
+            for(int j = words[0].size()-1; j >= 0; j--){
+                int notTake = dp[i][j+1];
+                int take =(1LL*fq[j][target[i]] * dp[i+1][j+1])%mod;
+                dp[i][j] = (notTake + take)%mod;
+            }
+        }
+
+        return dp[0][0];
     }
 };
