@@ -1,31 +1,21 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        unordered_map< int, int> mpp;
-        int flag = false;
-        for(auto i : nums){
-            if(mpp[i] != 0) flag = true;
-            mpp[i]++;
-        }
-        if(!flag) return 0;
+        map< int, int > mpp;
+        vector<int> check(nums.size(), 0);
 
-        int i  = 0;
-        int ans = 0;
-        while(i < nums.size()){
-            int need = i + 3;
-            while(i < need && i < nums.size()){
-                mpp[nums[i]]--;
-                i++;
-            }
-            int flag = false;
-            for(auto i : mpp){
-                if(i.second > 1) flag = true;
-            }
-            ans++;
-            if(!flag) return ans;
-            i = need;
+        for(int i = nums.size()-1; i >= 0; i--){
+            check[i] = ++mpp[nums[i]];
         }
-
+        int idx = -1;
+        for(int i = nums.size()-1; i >=0; i--){
+            if(check[i] > 1){
+                idx = i;
+                break;
+            }
+        }
+        if(idx == -1) return 0;
+        int ans = ceil((idx+1)/3.0);
         return ans;
     }
 };
