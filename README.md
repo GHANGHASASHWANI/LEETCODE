@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
