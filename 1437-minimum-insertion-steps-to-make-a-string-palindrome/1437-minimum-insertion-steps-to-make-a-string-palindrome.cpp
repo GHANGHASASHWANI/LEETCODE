@@ -23,9 +23,9 @@ public:
         // return fn(0, n-1, s);
 
         dp.clear();
-        dp.resize(n, vector<int> (n, 0));
+        dp.resize(n+1, vector<int> (n+1, 0));
 
-        for(int i =n-1; i >= 0; i--){
+        for(int i =n-2; i >= 0; i--){
             for(int j = i+1; j < n; j++){
                 int ans1 = 0;
                 if(s[i] == s[j]){
