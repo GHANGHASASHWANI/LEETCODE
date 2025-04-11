@@ -18,8 +18,24 @@ private:
 public:
     int minInsertions(string s) {
         int n = s.size();
+        // dp.clear();
+        // dp.resize(n, vector<int> (n, -1));
+        // return fn(0, n-1, s);
+
         dp.clear();
-        dp.resize(n, vector<int> (n, -1));
-        return fn(0, n-1, s);
+        dp.resize(n, vector<int> (n, 0));
+
+        for(int i =n-1; i >= 0; i--){
+            for(int j = i+1; j < n; j++){
+                int ans1 = 0;
+                if(s[i] == s[j]){
+                    ans1 = dp[i+1][j-1];
+                }else{
+                    ans1 = 1 + min(dp[i+1][j], dp[i][j-1]);
+                }
+                dp[i][j] = ans1;
+            }
+        }
+        return dp[0][n-1];
     }
 };
