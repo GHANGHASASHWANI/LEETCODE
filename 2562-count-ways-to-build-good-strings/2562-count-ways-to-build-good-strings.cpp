@@ -1,25 +1,22 @@
 class Solution {
-public:
-    vector<int> dp;
-    int m = 1e9 + 7;
-    int count(int length, int high, int low, int zero, int one) {
-        if (dp[length] != -1)
-            return dp[length];
-        int answer = 0;
-        if (length > high) {
-            return 0;
-        }
-        if (length >= low && length <= high) {
-            answer = 1;
-        }
-        int addOne = count(length + one, high, low, zero, one) % m;
+private:
+    const int mod = 1e9 + 7;
+    vector< int > dp;
+    int fn(int len, int low, int high, int one, int zero){
+        if(len > high) return 0;
+        if(dp[len] != -1) return dp[len];
+        int ans = 0;
+        if(len >= low && len <= high) ans =  1;
 
-        int addZero = count(length + zero, high, low, zero, one) % m;
-        return dp[length] = (answer + addOne + addZero) % m;
+        int addZero = fn(len + zero, low, high, one, zero) % mod;
+        int addOne = fn(len + one, low, high, one, zero)% mod;
+
+        return dp[len] =  ((ans + addZero) % mod + addOne) % mod;
     }
+public:
     int countGoodStrings(int low, int high, int zero, int one) {
         dp.clear();
-        dp.resize(1000001, -1);
-        return count(0, high, low, zero, one);
+        dp.resize(high + 1, -1);
+        return fn(0, low, high, zero, one);
     }
 };
