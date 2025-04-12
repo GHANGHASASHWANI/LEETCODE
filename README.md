@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
+| [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1503-reducing-dishes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1503-reducing-dishes) |
 | [1517-restore-the-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1517-restore-the-array) |
+| [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
@@ -799,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
