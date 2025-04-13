@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1364-tuple-with-same-product](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1290-make-array-strictly-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1290-make-array-strictly-increasing) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
