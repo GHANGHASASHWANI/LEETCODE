@@ -18,7 +18,7 @@ private:
 public:
     int maxProfit(vector<int>& prices, int fee) {
         dp.clear();
-        dp.resize(2, vector<int> (prices.size()+1, -1));
+        dp.resize(2, vector<int> (prices.size(), -1));
         return fn(true, 0, prices, fee);
     }
 };
