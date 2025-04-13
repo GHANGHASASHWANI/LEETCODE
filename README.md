@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1680-count-all-possible-routes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
