@@ -1,24 +1,27 @@
 class Solution {
-public:
- int dp[100005][2];
+private:
+    int calculateProfit(int idx, bool buy, vector< int> &prices, vector<vector< int >> &dp){
+        if(idx >= prices.size()) return 0;
 
-    int profit(vector<int> &prices, int i,  int on){
-        if(i == prices.size()) return 0;
+        if(dp[idx][buy] != -1) return dp[idx][buy];
 
-        if(dp[i][on] != -1) return dp[i][on];
-
-        int res = INT_MIN;
-        res = profit(prices, i+1, on);
-
-        if(on){
-            res = max(res, prices[i] + profit(prices, i+1, false));
+        int profit = 0;
+        if(buy){
+            int buyStock = calculateProfit(idx + 1, ! buy, prices, dp) - prices[idx];
+            int notBuyStock = calculateProfit(idx + 1, buy, prices, dp);
+            profit = max(buyStock, notBuyStock);
         }else{
-             res = max(res, profit(prices, i, true) - prices[i]);
+            int sellStock = prices[idx] + calculateProfit(idx + 1, ! buy, prices, dp);
+            int notSellStock = calculateProfit(idx + 1, buy, prices, dp);
+            profit = max(sellStock, notSellStock);
         }
-        return dp[i][on] = res;
+
+        return dp[idx][buy] = profit;
     }
+public:
     int maxProfit(vector<int>& prices) {
-        memset(dp, -1, sizeof dp);
-        return profit(prices, 0, false);
+        int len = prices.size();
+        vector<vector<int>> dp(len, vector< int > (2, -1));
+        return calculateProfit(0, true, prices, dp);
     }
 };
