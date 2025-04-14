@@ -31,24 +31,27 @@ public:
         int len = prices.size();
         vector<vector<vector< int >>> dp(len+1, vector<vector< int >> (2, vector<int> (3, 0)));
 
+        vector<vector< int >> curr(2, vector<int> (3, 0)), ahead(2, vector<int> (3, 0));
+
         for(int i = len - 1; i >= 0; i--){
             for(int j = 0; j <= 1; j++){
                 for(int k = 1; k <= 2; k++){
                     int profit = 0;
                     if(j){
-                        int buyStock = dp[i + 1][!j][k] - prices[i];
-                        int notBuyStock = dp[i+1][j][k];
+                        int buyStock = ahead[!j][k] - prices[i];
+                        int notBuyStock = ahead[j][k];
                         profit = max(buyStock, notBuyStock);
                     }else{
-                        int sellStock = dp[i+1][!j][k - 1] + prices[i];
-                        int notSellStock = dp[i+1][j][k];
+                        int sellStock = ahead[!j][k - 1] + prices[i];
+                        int notSellStock = ahead[j][k];
                         profit = max(sellStock, notSellStock);
                     }
-                    dp[i][j][k] = profit;
+                    curr[j][k] = profit;
                 }
+                ahead = curr;
             }
         }
 
-        return dp[0][1][2];
+        return curr[1][2];
     }
 };
