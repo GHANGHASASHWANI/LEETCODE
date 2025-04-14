@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
