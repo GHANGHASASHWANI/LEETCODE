@@ -20,8 +20,29 @@ private:
     }
 public:
     int maxProfit(vector<int>& prices) {
+        // int len = prices.size();
+        // vector<vector<int>> dp(len, vector< int > (2, -1));
+        // return calculateProfit(0, true, prices, dp);
+
         int len = prices.size();
-        vector<vector<int>> dp(len, vector< int > (2, -1));
-        return calculateProfit(0, true, prices, dp);
+        vector<vector< int >> dp(len + 1, vector< int > (2, 0));
+
+        for(int idx = len - 1; idx >= 0; idx--){
+            for(int buy = 0; buy <= 1; buy++){
+                int profit = 0;
+                if(buy){
+                    int buyStock = dp[idx + 1][!buy] - prices[idx];
+                    int notBuyStock = dp[idx + 1][buy];
+                    profit = max(buyStock, notBuyStock);
+                }else{
+                    int sellStock = dp[idx + 1][!buy] + prices[idx];
+                    int notSellStock = dp[idx + 1][buy];
+                    profit = max(sellStock, notSellStock);
+                }
+                dp[idx][buy] = profit;
+            }
+        }
+
+        return dp[0][1];
     }
 };
