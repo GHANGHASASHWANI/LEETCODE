@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0688-knight-probability-in-chessboard](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
