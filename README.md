@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1170-shortest-common-supersequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1304-longest-happy-string) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1105-uncrossed-lines) |
+| [1170-shortest-common-supersequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1250-longest-common-subsequence) |
