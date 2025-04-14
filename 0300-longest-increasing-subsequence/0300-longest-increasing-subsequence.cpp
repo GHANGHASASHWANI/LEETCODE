@@ -22,16 +22,19 @@ public:
         const int len = nums.size();
         vector<vector< int >> dp(len + 1, vector< int > (len + 2, 0));
 
+        vector< int > curr(len + 2, 0), ahead(len + 2, 0);
+
         for(int i = len - 1; i >= 0; i--){
             for(int j = i - 1; j >= -1; j--){
-                int notTake = dp[i+1][j+1];
+                int notTake = ahead[j+1];
                 int take = 0;
                 if(j == -1 || nums[i] > nums[j]){
-                    take = 1 + dp[i+1][i+1];
+                    take = 1 + ahead[i+1];
                 }
-                dp[i][j + 1] = max(take, notTake);
+                curr[j + 1] = max(take, notTake);
             }
+            ahead = curr;
         }
-        return dp[0][0];
+        return ahead[0];
     }
 };
