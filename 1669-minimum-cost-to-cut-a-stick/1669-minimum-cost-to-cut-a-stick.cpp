@@ -20,7 +20,7 @@ public:
         cuts.insert(cuts.begin(), 0);
         cuts.push_back(n);
         sort(cuts.begin(), cuts.end());
-        dp.resize(cuts.size(), vector<int>(cuts.size(), -1));
+        dp.resize(n + 5, vector<int>(n + 5, -1));
         return minimumCost(1, cuts.size() - 2, cuts);
     }
 };
