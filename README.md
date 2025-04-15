@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0338-counting-bits) |
