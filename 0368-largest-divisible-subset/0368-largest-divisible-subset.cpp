@@ -1,59 +1,39 @@
 class Solution {
-// private:
-//     vector<int> res;
-//     map< int, vector<int>> dp;
-//     void fn(vector<int> &nums, int idx, vector<int> ans, int prev){
-//         if(idx >= nums.size()){
-//             if(ans.size() > res.size()) res = ans;
-//             return;
-//         }
-
-//         if(dp.find(idx) != dp.end()){
-//             if(dp[idx].size() > res.size()){
-//                 res = dp[idx];
-//                 return;
-//             }
-//         }
-
-//         fn(nums, idx+1, ans, prev);
-
-//         if(nums[idx] % prev == 0 || prev % nums[idx] == 0){
-//             ans.push_back(nums[idx]);
-//             fn(nums, idx+1, ans, nums[idx]);
-//             ans.pop_back();
-//         }
-
-//         dp[idx] = ans;
-//     }
 public:
-//     vector<int> largestDivisibleSubset(vector<int>& nums) {
-//         vector<int> ans;
-//         sort(nums.rbegin(), nums.rend());
-//         fn(nums, 0,ans, 1);
+    vector<int> largestDivisibleSubset(vector<int>& arr) {
+        sort(arr.begin(), arr.end());
+        int len = arr.size();
 
-//         return res;
-//     }
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        vector<vector< int >> dp(nums.size());
-
-        for(int i = nums.size() - 1; i >= 0; i--){
-            dp[i] = {nums[i]};
-            for(int j = i+1; j < nums.size(); j++){
-                if(nums[j] % nums[i] == 0 || nums[i] % nums[j] == 0){
-                    vector<int> temp = dp[j];
-                    temp.push_back(nums[i]);
-                    if(temp.size() > dp[i].size()){
-                        dp[i] = temp;
+        vector< int > dp(len, 1);
+        vector< int > position(len, 0);
+        int lastIdx = 0;
+        int res = 1;
+        for(int i = 0; i < len; i++){
+            position[i] = i;
+            for(int j = 0; j < i; j++){
+                if(arr[i] % arr[j] == 0){
+                    if(dp[i] < 1 + dp[j]){
+                        dp[i] = 1 + dp[j];
+                        position[i] = j;
                     }
                 }
             }
+            if(res < dp[i]){
+                res = dp[i];
+                lastIdx = i;
+            }
         }
+
         vector< int > ans;
 
-        for(auto i : dp){
-            if(i.size() > ans.size()) ans = i;
+        while(position[lastIdx] != lastIdx){
+            ans.push_back(arr[lastIdx]);
+            lastIdx = position[lastIdx];
         }
+        ans.push_back(arr[lastIdx]);
+
+        reverse(ans.begin(), ans.end());
+
         return ans;
     }
 };
