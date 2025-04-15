@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Database
