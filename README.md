@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0279-perfect-squares) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
