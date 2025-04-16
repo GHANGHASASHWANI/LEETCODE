@@ -1,39 +1,34 @@
 class Solution {
-public:
-    int r[4] = {0, 0, 1, -1};
-    int c[4] = {1, -1, 0, 0};
-    void BFS(vector<vector< int >> &answer, vector<vector<int>> &image, int sr, int sc, int newColor, int oldColor, set< pair<int, int>> &visited){
-        queue< pair< int, int >> qu;
-        qu.push({sr, sc});
-        while(!qu.empty()){
-            int size = qu.size();
+private:
+    bool isSafe(const int row, const int col, const vector< vector< int >> &grid){
+        return row >= 0 and row < grid.size() and col >= 0 and col < grid[0].size();
+    } 
 
-            for(int i =0; i < qu.size(); i++){
-                int row = qu.front().first;
-                int col = qu.front().second;
-                qu.pop();
-                answer[row][col] = newColor;
-                for(int i =0; i < 4; i++){
-                    int newRow = row + r[i];
-                    int newCol = col + c[i];
+    void DFS(const int row, const int col, vector< vector< bool >> &visited, const vector<vector< int >> &image, vector<vector< int >> &coloredImage, const int newColor, const int oldColor){
+        visited[row][col] = true;
+        coloredImage[row][col] = newColor;
 
-                    if(newRow >= 0 && newRow < image.size() && newCol >= 0 && newCol < image[0].size() && image[newRow][newCol] == oldColor && !visited.count({newRow, newCol})){
-                        qu.push({newRow, newCol});
-                        visited.insert({newRow, newCol});
-                    }
-                }
+        int rows[4] = {1, -1, 0, 0};
+        int cols[4] = {0, 0, 1, -1};
 
+        for(int idx = 0; idx < 4; idx++){
+            int newRow = row + rows[idx];
+            int newCol = col + cols[idx];
+
+            if(isSafe(newRow, newCol, image) and not visited[newRow][newCol] and image[newRow][newCol] == oldColor){
+                DFS(newRow, newCol, visited, image, coloredImage, newColor, oldColor);
             }
         }
     }
+public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        vector<vector< int >> answer(image.begin(), image.end());
-        set< pair<int, int>> visited;
-
+        vector<vector< int >> coloredImage(image.begin(), image.end());
         int oldColor = image[sr][sc];
-        BFS(answer, image, sr, sc,color, oldColor, visited);
 
-        return answer;
+        vector<vector< bool >> visited(image.size(), vector< bool > (image[0].size(), false));
 
+        DFS(sr, sc, visited, image, coloredImage, color, oldColor);
+
+        return coloredImage;
     }
 };
