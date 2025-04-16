@@ -1,62 +1,62 @@
 class Solution {
 private:
-    int r[4] = {0, -1, 0, +1};
-    int c[4] = {1, 0, -1, 0};
-    int BFS(queue< pair< int, int >> &qu, vector<vector< bool >> &visited, vector<vector< int >> &grid){
-        int n = grid.size();
-        int m = grid[0].size();
-        int ans = 0;
-        while(!qu.empty()){
-            int size = qu.size();
 
-            for(int i =0; i < size; i++){
-                int row = qu.front().first;
-                int col = qu.front().second;
-                cout<<row<<" "<<col<<endl;
-                qu.pop();
+    bool isSafe(const int row,  const int col, const vector<vector< int >> &grid){
+        return row >= 0 && row < grid.size() && col >= 0 && col < grid[0].size();
+    }
 
-                for(int i =0; i < 4; i++){
-                    int newRow = row + r[i];
-                    int newCol = col + c[i];
+    int BFS(queue< pair< pair< int, int >, int >> qu, const vector<vector< int >> &grid, vector<vector< bool >> &visited){
+        const int addRows[4] = {1, -1, 0, 0};
+        const int addCols[4] = {0, 0, -1, 1};
 
-                    if(newRow >= 0 && newRow < n && newCol >= 0 && newCol < m && grid[newRow][newCol] == 1 && visited[newRow][newCol] == false){
-                        qu.push({newRow, newCol});
-                        visited[newRow][newCol] = true;
-                    }
+        int totalSteps = 0;
+
+        while(not qu.empty()){
+            int currRow = qu.front().first.first;
+            int currCol = qu.front().first.second;
+            int currCount = qu.front().second;
+
+            qu.pop();
+
+            totalSteps = max(currCount, totalSteps);
+
+            for(int idx = 0; idx < 4; idx++){
+                int updatedRow = currRow + addRows[idx];
+                int updatedCol = currCol + addCols[idx];
+
+                if(isSafe(updatedRow, updatedCol, grid) && not visited[updatedRow][updatedCol] && grid[updatedRow][updatedCol] == 1){
+                    visited[updatedRow][updatedCol] = true;
+                    qu.push({{updatedRow, updatedCol}, currCount + 1});
                 }
             }
-            ans++;
-            cout<<ans<<endl;
         }
-        if(ans > 0) ans--;
-        return ans;
+        
+        return totalSteps;
     }
 public:
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        vector< vector< bool >> visited(n, vector< bool > (m, false));
+        int rowLen = grid.size();
+        int colLen = grid[0].size();
 
-        queue<pair< int, int >> qu;
+        queue< pair< pair< int, int >, int >> qu;
+        vector<vector< bool >> visited(rowLen, vector< bool >(colLen, false));
 
-        for(int i =0; i < grid.size(); i++){
-            for(int j =0; j < grid[0].size(); j++){
+        for(int i = 0; i < rowLen; i++){
+            for(int j = 0; j < colLen; j++){
                 if(grid[i][j] == 2){
-                    qu.push({i, j});
-                    visited[i][j] = true;
+                   qu.push({{i, j}, 0});
                 }
             }
         }
 
-        int ans  = BFS(qu, visited, grid);
-        cout<<ans<<endl;
-        for(int i =0 ; i < grid.size(); i++){
-            for(int j =0; j < grid[0].size(); j++){
-                if(grid[i][j] == 1 && visited[i][j] == false){
-                    return -1;
-                }
+        int minSteps = BFS(qu, grid, visited);
+
+        for(int i =0; i < rowLen; i++){
+            for(int j = 0; j < colLen; j++){
+                if(grid[i][j] == 1 && not visited[i][j]) return -1;
             }
         }
-        return ans ;
+
+        return minSteps;
     }
 };
