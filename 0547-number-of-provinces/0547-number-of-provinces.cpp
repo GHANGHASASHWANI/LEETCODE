@@ -1,34 +1,28 @@
 class Solution {
-public:
-    void DFS(int v, vector<vector< int >> &adj, vector< bool > & vis){
-        vis[v] = true;
+private:
+    void DFS(int node, vector< bool > & visited, const vector<vector< int >> &isConnected){
+        visited[node] = true;
 
-        for(auto & i : adj[v]){
-            if(! vis[i]){
-                DFS(i, adj, vis);
+        for(int idx = 0; idx < isConnected[node].size(); idx++){
+            if(isConnected[node][idx] == 1 && not visited[idx]){
+                DFS(idx, visited, isConnected);
             }
         }
     }
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int vertex = isConnected.size();
-        vector<vector<int>> adj(vertex);
-        vector<bool> vis(vertex, false);
-        for (int i = 0; i < isConnected.size(); i++) {
-            for (int j = 0; j < isConnected[0].size(); j++) {
-                if (i != j && isConnected[i][j]) {
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
-                }
+        int totalVertex = isConnected.size();
+
+        vector< bool > visited(totalVertex, false);
+        int totalProvinces = 0;
+
+        for(int index = 0; index < totalVertex; index++){
+            if(not visited[index]){
+                totalProvinces++;
+                DFS(index, visited, isConnected);
             }
         }
 
-        int ans  = 0;
-        for(int i = 0; i < isConnected.size(); i++){
-            if(! vis[i]){
-                DFS(i, adj, vis);
-                ans++;
-            }
-        }
-        return ans;
+        return totalProvinces;
     }
 };
