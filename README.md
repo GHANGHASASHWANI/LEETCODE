@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1121-partition-array-for-maximum-sum) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2145-grid-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2145-grid-game) |
