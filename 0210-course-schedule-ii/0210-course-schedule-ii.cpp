@@ -1,35 +1,33 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int size = numCourses;
-        vector<int> indegree(size, 0);
-        vector<int> res;
-        vector<list<int>> graph(size);
-        for (auto edge : prerequisites) {
-            graph[edge[1]].push_back(edge[0]);
-            indegree[edge[0]]++;
-        }
-        queue<int> qu;
+        vector<vector<int>> dependency(numCourses);
+        vector<int> inDegree(numCourses, 0);
+        queue< int > checkCourses;
 
-        for (int i = 0; i < size; i++) {
-            if (not indegree[i]) {
-                qu.push(i);
+        for(int i =0; i < prerequisites.size(); i++){
+            int course1 = prerequisites[i][0], course2 = prerequisites[i][1];
+            dependency[course2].push_back(course1);
+            inDegree[course1]++;
+        }
+
+        for(int i =0;i < inDegree.size(); i++){
+            if(inDegree[i] == 0) checkCourses.push(i);
+        }
+
+        vector<int> courseOrder;
+
+        while(not checkCourses.empty()){
+            int currCourse = checkCourses.front();
+            checkCourses.pop();
+            courseOrder.push_back(currCourse);
+
+            for(auto& newCourse : dependency[currCourse]){
+                inDegree[newCourse]--;
+                if(inDegree[newCourse] == 0) checkCourses.push(newCourse);
             }
         }
-        while (not qu.empty()) {
-            int node = qu.front();
-            res.push_back(node);
-            qu.pop();
-
-            for (auto i : graph[node]) {
-                indegree[i]--;
-                if (indegree[i] == 0) {
-                    qu.push(i);
-                }
-            }
-        }
-        if (res.size() != numCourses)
-            return {};
-        return res;
+        if(courseOrder.size() < numCourses) return {};
+        return courseOrder;
     }
 };
