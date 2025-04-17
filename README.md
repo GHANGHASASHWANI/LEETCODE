@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 ## Monotonic Queue
 |  |
