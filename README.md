@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
