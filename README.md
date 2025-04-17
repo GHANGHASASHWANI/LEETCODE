@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1036-rotting-oranges) |
