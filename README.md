@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-count-all-possible-routes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1680-count-all-possible-routes) |
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Graph
 |  |
@@ -641,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2145-grid-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
@@ -846,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1304-longest-happy-string) |
+| [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
