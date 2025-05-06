@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1364-tuple-with-same-product) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1396-count-servers-that-communicate](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
