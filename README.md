@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
 | [0917-boats-to-save-people](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0917-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
