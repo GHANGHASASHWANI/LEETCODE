@@ -1,22 +1,30 @@
 class Solution {
 public:
     int lengthAfterTransformations(string s, int t) {
-        vector<int>mp(26,0);
-        int m=1000000007,count=0;
-        for(auto it:s)mp[it-'a']++;
-        while(t--){
-            vector<int>val(26,0);
-            for(int i=0;i<26;i++){
-                if(i==25){
-                    val[0]=(val[0]+mp[i])%m;
-                    val[1]=(val[1]+mp[i])%m;
-                }
-                else val[i+1]=(val[i+1]+mp[i])%m;
-            }
-            mp=val;
+        unordered_map<char, int> freq;
+        for (auto i : s) {
+            freq[i]++;
         }
-        for(auto it:mp)
-        count=(count%m+(it%m))%m;
-        return count;
+        int mod = 1e9 + 7;
+        while (t--) {
+            unordered_map<char, int> temp;
+            for (auto it : freq){
+                char currChar = it.first;
+                int currFreq = it.second;
+                if (currChar == 'z') {
+                    temp['a'] = (temp['a'] + currFreq) % mod;
+                    temp['b'] = (temp['b'] +  currFreq) % mod;
+                }
+                else temp[currChar + 1] = (temp[currChar + 1] + currFreq) % mod;
+            }
+            freq = temp;
+        }
+        int answer = 0;
+
+        for (auto it : freq){
+            answer = (answer + it.second) % mod;
+        }
+
+        return answer;
     }
 };
