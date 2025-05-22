@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
 | ------- |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
+| [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
