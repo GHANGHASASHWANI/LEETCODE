@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3324-split-the-array) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Stack
 |  |
@@ -1014,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Brainteaser
 |  |
 | ------- |
