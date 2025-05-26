@@ -9,21 +9,22 @@
  * };
  */
 class Solution {
+private:
+    ListNode* reverse(ListNode* head, ListNode* &ans) {
+        if (!head || !head->next) {
+            ans = head;
+            return head;
+        }
+        ListNode* currHead = head;
+        ListNode* newHead = reverse(head->next, ans);
+        newHead->next = currHead;
+        currHead->next = NULL;
+        return currHead;
+    }
 public:
     ListNode* reverseList(ListNode* head) {
-        if (!head) return NULL;
-        if (!head->next) return head;
-
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* dummy = head;
-
-        while (curr) {
-            dummy = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = dummy;
-        }
-        return prev;
+        ListNode* anss = NULL;
+        ListNode* ans = reverse(head, anss);
+        return anss;
     }
 };
