@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
@@ -1113,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Shortest Path
 |  |
