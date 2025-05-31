@@ -10,44 +10,50 @@
  */
 class Solution {
 public:
-
-    void add(ListNode* &l1, ListNode* &l2, int &carry, ListNode* &dummy){
-        if(!l1 || !l2) return; 
-        int sum =  l1->val + l2->val + carry;
-         carry = sum / 10;
-        ListNode* temp = new ListNode(sum % 10);
-
-        dummy->next = temp;
-        dummy = dummy->next;
-        l1 = l1->next;
-        l2 = l2->next;
-        add(l1, l2, carry, dummy);
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy = new ListNode(-1);
-        ListNode* ans = dummy;
         int carry = 0;
-        add(l1, l2, carry, dummy);
-        cout<<"ok1";
-        while(l1){
-            int sum = l1->val + carry;
-             carry = sum / 10;
-            ListNode* temp = new ListNode(sum % 10);
-            dummy->next = temp;
-            dummy = dummy->next;
-            l1 = l1->next;
+
+        ListNode* start1 = l1;
+        ListNode* start2 = l2;
+
+        ListNode* newHead =  new ListNode(0);
+        ListNode* ans = newHead;
+        while (start1 && start2 ) {
+            int num1 = start1->val;
+            int num2 = start2->val;
+            int total = num1 + num2 + carry;
+            carry = total / 10;
+            total = total % 10;
+            newHead->next = new ListNode(total);
+            newHead = newHead->next;
+
+            start1 = start1->next;
+            start2 = start2->next;
         }
-        while(l2){
-            int sum = l2->val + carry;
-            carry = sum / 10;
-            ListNode* temp = new ListNode(sum % 10);
-            dummy->next = temp;
-            dummy = dummy->next;
-            l2 = l2->next;
+        while (start1) {
+           int num1 = start1->val;
+       
+            int total = num1 + carry;
+            carry = total / 10;
+            total = total % 10;
+            newHead->next = new ListNode(total);
+            newHead = newHead->next;
+
+            start1 = start1->next;
         }
-        if(carry){
-            ListNode* temp = new ListNode(carry);
-            dummy->next = temp;
+         while (start2) {
+           int num2 = start2->val;
+       
+            int total = num2 + carry;
+            carry = total / 10;
+            total = total % 10;
+            newHead->next = new ListNode(total);
+            newHead = newHead->next;
+
+            start2 = start2->next;
+        }
+        if (carry) {
+            newHead->next = new ListNode(1);
         }
         return ans->next;
     }
