@@ -1,22 +1,29 @@
 class Solution {
 public:
+    typedef pair<int, int> pp;
     int candy(vector<int>& ratings) {
         int n = ratings.size();
-        vector<int> right(n, 1);
-        vector<int> left(n, 1);
-        for (int i = 1; i < n; i++) {
-            if (ratings[i] > ratings[i - 1]) {
-                left[i] = left[i - 1] + 1;
-            }
+        priority_queue<pp, vector<pp>, greater<pp>> pq;
+        for (int i = 0; i < ratings.size(); i++) {
+            pq.push({ratings[i], i});
         }
-        for (int i = n - 2; i >= 0; i--) {
-            if (ratings[i] > ratings[i + 1]) {
-                right[i] = right[i + 1] + 1;
+        vector<int> ans(n, 1);
+        while (not pq.empty()) {
+            int currIdx = pq.top().second;
+            int currRating = pq.top().first;
+            pq.pop();
+
+            if (currIdx > 0 && ratings[currIdx] < ratings[currIdx - 1] ) {
+                ans[currIdx - 1] = max(ans[currIdx - 1], ans[currIdx] + 1);
             }
+            if (currIdx  < n - 1 && ratings[currIdx] < ratings[currIdx + 1]) {
+                ans[currIdx + 1] = max(ans[currIdx + 1], ans[currIdx] + 1);
+            }
+            
         }
         int sum = 0;
-        for (int i =0; i < n; i++) {
-            sum += max(left[i], right[i]);
+        for (auto i : ans) {
+            sum += i;
         }
         return sum;
     }
