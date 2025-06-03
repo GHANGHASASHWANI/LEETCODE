@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0790-global-and-local-inversions](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0790-global-and-local-inversions) |
 | [0797-rabbits-in-forest](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0935-orderly-queue](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0935-orderly-queue) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
+| [0935-orderly-queue](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0935-orderly-queue) |
 | [0952-word-subsets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0962-flip-string-to-monotone-increasing) |
@@ -810,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0935-orderly-queue](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0935-orderly-queue) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1129-longest-string-chain](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1129-longest-string-chain) |
