@@ -44,13 +44,26 @@ public:
         vector<int> lps(b.size(), 0);
         computelps(lps, b);
 
-        string temp = a;
-        int total = 1;
+        // string temp = a;
+        int total = 0;
 
-        while (temp.size() < b.size() ) {
+        int n = b.size();
+        int m = a.size();
+
+        int need = ceil((n - m)*1.0 / m*1.0) + 1;
+
+        total = need;
+        
+        string temp = "";
+
+        for (int i = 0; i < need; i++) {
             temp += a;
-            total++;
         }
+
+        // while (temp.size() < b.size() ) {
+        //     temp += a;
+        //     total++;
+        // }
 
         if (check(lps, temp, b)) return total;
 
