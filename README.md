@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0432-all-oone-data-structure) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
