@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0322-coin-change) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0432-all-oone-data-structure](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -1162,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
