@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0055-jump-game) |
