@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1500-count-largest-group) |
 | [1522-stone-game-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1522-stone-game-iii) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1502-construct-k-palindrome-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1502-construct-k-palindrome-strings) |
 | [1503-reducing-dishes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1503-reducing-dishes) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
