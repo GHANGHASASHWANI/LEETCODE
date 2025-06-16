@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0502-ipo) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1190,6 +1194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2096-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2096-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1213,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Quickselect
@@ -1243,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Shortest Path
 |  |
