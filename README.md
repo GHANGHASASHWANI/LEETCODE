@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3321-type-of-triangle) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
@@ -1031,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
