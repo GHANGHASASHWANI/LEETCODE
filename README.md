@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -893,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2164-two-best-non-overlapping-events) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2300-construct-string-with-repeat-limit) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
