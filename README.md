@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-flip-string-to-monotone-increasing](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0967-minimum-falling-path-sum) |
 | [0993-tallest-billboard](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0993-tallest-billboard) |
+| [1008-binary-tree-cameras](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
@@ -950,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
+| [1008-binary-tree-cameras](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
