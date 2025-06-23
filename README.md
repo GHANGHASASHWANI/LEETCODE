@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
@@ -1272,12 +1274,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0204-count-primes) |
 | [1906-maximize-score-after-n-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1906-maximize-score-after-n-operations) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2610-closest-prime-numbers-in-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2610-closest-prime-numbers-in-range) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
