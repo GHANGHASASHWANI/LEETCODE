@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2757-count-of-integers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2757-count-of-integers) |
 | [2998-count-symmetric-integers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3017-number-of-beautiful-integers-in-the-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2757-count-of-integers) |
+| [3017-number-of-beautiful-integers-in-the-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
