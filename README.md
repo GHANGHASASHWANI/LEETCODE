@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0075-sort-colors) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0068-text-justification) |
 | [0735-asteroid-collision](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2048-build-array-from-permutation) |
