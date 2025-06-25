@@ -1,23 +1,29 @@
 class Solution {
 private:
-    int dp[12][2][12];
+    int dp[10][2][10];
+    int fn(int i, bool tight, int count, string &str) {
+        if (i == str.size()) return count;
 
-    int fn(string &str, int idx, int tight, int cnt){
-        if(idx == str.size()) return cnt;
-        if(dp[idx][tight][cnt] != -1) return dp[idx][tight][cnt];
-        
-        int limit = (tight == 1 ? str[idx] - '0' : 9);
+        if (dp[i][tight][count] != -1) return dp[i][tight][count];
+
+        int limit = tight ? str[i] - '0' : 9;
         int ans = 0;
-        for(int i =0; i <= limit; i++){
-            int updatedCnt = cnt + (i == 1 ? 1 : 0);
-            ans += fn(str, idx+1, tight & (i == str[idx] - '0'), updatedCnt);
+
+        for (int d = 0; d <= limit; d++) {
+            bool newTight = tight & (d == limit);
+            if (d == 1) {
+                ans += fn(i + 1, newTight, count + 1, str);
+            } else {
+                ans += fn(i + 1, newTight, count, str);
+            }
         }
-        return dp[idx][tight][cnt] = ans;
+        return dp[i][tight][count] = ans;
     }
 public:
     int countDigitOne(int n) {
+        string str = to_string(n);
         memset(dp, -1, sizeof(dp));
-        string str =to_string(n);
-        return fn(str, 0, 1, 0);
+
+        return fn(0, true, 0, str);
     }
 };
