@@ -1,48 +1,34 @@
 class TreeAncestor {
-public: 
-    // DP[i][j] = x = dp[i][j-1]
-    //                dp[x][j-1]
-
-    vector< vector< int >> dp;
+private:
+vector<vector<int>> binary;
+public:
     TreeAncestor(int n, vector<int>& parent) {
-        dp.clear();
-        int k = ceil(log2(n));
-        dp.resize(n, vector<int> (k+1, -1));
+        binary.resize(31, vector<int> (n, -1));
 
-        for(int i =0; i < n; i++){ 
-            dp[i][0] = parent[i];
+        for (int i = 0; i < parent.size(); i++) {
+            binary[0][i] = parent[i];
         }
 
-        for(int i = 1; i <= k; i++){ // col
-            for(int j = 1; j <  n; j++ ){ // row
-                int x = dp[j][i-1];
-                if(x == -1) dp[j][i] = -1;
-                else dp[j][i] = dp[x][i-1];
+        for (int i = 1; i < 31; i++) {
+            for (int j = 0; j < n; j++) {
+                int prev = binary[i - 1][j];
+                if (prev != -1) {  
+                    binary[i][j] = binary[i - 1][prev];
+                }
             }
         }
-
-        for(int i = 1; i <= k; i++){ // col
-            for(int j = 1; j <  n; j++ ){ // row
-               cout<< dp[j][i] <<" ";
-            }
-            cout<<endl;
-        }
-    }
-
-    int solve(int target, int k, vector< vector< int >> &dp){
-        if(k == 0) return target;
-
-        int j = log2(k);
-        int x = dp[target][j];
-        int remaining = k - pow(2, j);
-
-        if(x == -1) return -1;
-
-        return solve(x, remaining, dp);
     }
     
     int getKthAncestor(int node, int k) {
-        return solve(node, k, dp);
+        int need = k;
+
+        for (int i = 0; i < 31 ; i++) {
+            if ((k >> i) & 1) {
+                node = binary[i][node];
+                if (node == -1) break;
+            }
+        }
+        return node;
     }
 };
 
