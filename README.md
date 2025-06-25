@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2757-count-of-integers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2921-count-stepping-numbers-in-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2757-count-of-integers) |
+| [2921-count-stepping-numbers-in-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2921-count-stepping-numbers-in-range) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
