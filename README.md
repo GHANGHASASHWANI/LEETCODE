@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0935-orderly-queue) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1057-numbers-with-repeated-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1240-stone-game-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-tallest-billboard](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0993-tallest-billboard) |
 | [1008-binary-tree-cameras](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1008-binary-tree-cameras) |
 | [1025-minimum-cost-for-tickets](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1025-minimum-cost-for-tickets) |
+| [1057-numbers-with-repeated-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1087-longest-arithmetic-subsequence) |
