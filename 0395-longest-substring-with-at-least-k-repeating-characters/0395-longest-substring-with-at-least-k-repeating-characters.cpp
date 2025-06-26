@@ -1,7 +1,7 @@
 class Solution {
 
 private:
-    int minFreq (map<char, int> &mpp) {
+    int minFreq (unordered_map<char, int> &mpp) {
         int minFreq = INT_MAX;
 
         for (auto it : mpp) {
@@ -16,7 +16,7 @@ public:
         int length = 0;
 
         for (int i = 0; i < n ; i++) {
-            map<char, int> mpp;
+            unordered_map<char, int> mpp;
             char minChar = s[i];
             for (int j = i; j < n; j++) {
                 mpp[s[j]]++;
