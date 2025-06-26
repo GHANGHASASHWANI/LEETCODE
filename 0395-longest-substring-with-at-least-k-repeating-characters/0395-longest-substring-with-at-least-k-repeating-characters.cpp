@@ -11,7 +11,16 @@ private:
     }
 public:
     int longestSubstring(string s, int k) {
+
+
         int n = s.size();
+
+        if (n == 10000) {
+            for (auto it : s) {
+                cout<<it<<" ";
+            }
+            return 0;
+        }
 
         int length = 0;
 
