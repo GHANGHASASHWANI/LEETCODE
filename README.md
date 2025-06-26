@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0212-word-search-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
@@ -1167,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1307,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
