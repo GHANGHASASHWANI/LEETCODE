@@ -17,6 +17,7 @@ public:
         queue<pair<TreeNode*, unsigned long long>> traverse;
         traverse.push({root, 0});
         unsigned long long maxi = 0;
+
         while (! traverse.empty()) {
             int size = traverse.size();
             unsigned long long start = traverse.front().second;
