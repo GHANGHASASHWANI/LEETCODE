@@ -1,26 +1,30 @@
 class Solution {
 private:
-    void dfs(vector<vector< int >> &grid, int vertex, int currNode, vector< int > &visited, int &cnt){
-        visited[currNode] = 1;
-        for(int i = 0; i < vertex; i++){
-            if(!visited[i] ){
-                if((grid[currNode][0] == grid[i][0]) || (grid[currNode][1] == grid[i][1])){
-                    cnt++;
-                    dfs(grid, vertex, i, visited, cnt);
-                }
+    void removeStone(vector<vector<int>> &stones, vector<bool> &visited, int vertex) {
+        visited[vertex] = true;
+
+        for (int index =  0; index < stones.size(); index++) {
+            int row = stones[vertex][0];
+            int col = stones[vertex][1];
+            if (not visited[index] && (stones[index][0] == row || stones[index][1] == col) ) {
+                removeStone(stones, visited, index);
             }
         }
     }
 public:
     int removeStones(vector<vector<int>>& stones) {
-        int vertex = stones.size();
-        vector< int > visited(vertex + 1, 0);
-        int answer  = 0;
-        for(int i =0; i < vertex ; i++){
-            if(! visited[i]){
-                dfs(stones, vertex, i, visited, answer);
-            }
+        int totalVertex = stones.size();
+
+        vector<bool> visited(totalVertex, false);
+
+        int total = 0;
+
+        for (int vertex = 0; vertex < totalVertex; vertex++) {
+            if (visited[vertex]) continue;
+
+            removeStone(stones, visited, vertex);
+            total++;
         }
-        return answer;
+        return totalVertex - total;
     }
 };
