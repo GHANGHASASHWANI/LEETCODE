@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0502-ipo) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0778-reorganize-string) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
