@@ -1,34 +1,36 @@
 class Solution {
-public:
-
-    int isCycle(int node, int parent,int color, vector< int > &visited, vector<vector<int>> &adjlist){
+private:
+    bool isCycle(vector<int> &visited, int node, vector<vector<int>> &adjList, int color) {
         visited[node] = color;
 
-        for(auto neighbour : adjlist[node]){
-            if(visited[neighbour] == -1){
-                if(!isCycle(neighbour, node, 1 - color, visited, adjlist)) return false;
+        for (auto &neighbor : adjList[node]) {
+            if (visited[neighbor] == -1) {
+                if (isCycle(visited, neighbor, adjList, !color)) return true;
             }
-            else if(visited[neighbour] == visited[node]){
-                return false;
+            else if (visited[neighbor] != -1 && (visited[neighbor] == visited[node])) {
+                return true;
+            }
+        }
+        return false;
+    }
+public:
+    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
+        int vertex = n + 1;
+        vector<vector<int>> adjList(vertex);
+        vector<int> visited(vertex, -1);
+
+        for (auto &dislike : dislikes) {
+            int firstPerson = dislike[0];
+            int secondPerson = dislike[1];
+            adjList[firstPerson].push_back(secondPerson);
+            adjList[secondPerson].push_back(firstPerson);
+        }
+
+        for (int person = 1; person < vertex; person++) {
+            if (visited[person] == -1) {
+                if (isCycle(visited, person, adjList, 1)) return false;
             }
         }
         return true;
-    }
-
-    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
-        vector<vector< int >> adjlist(n+1);
-        vector< int > visited(n+1, -1);
-        for(auto it : dislikes){
-            adjlist[it[0]].push_back(it[1]);
-            adjlist[it[1]].push_back(it[0]);
-        }
-        
-        for(int i = 1; i <= n; i++){
-            if(visited[i] == -1){
-                if(!isCycle(i, -1,0, visited, adjlist)) return false;
-            }
-           
-        }
-        return true; 
     }
 };
