@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [0863-sum-of-distances-in-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
+| [0863-sum-of-distances-in-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [0868-push-dominoes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0868-push-dominoes) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0943-sum-of-subarray-minimums) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0820-find-eventual-safe-states) |
+| [0863-sum-of-distances-in-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0669-trim-a-binary-search-tree) |
+| [0863-sum-of-distances-in-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0988-flip-equivalent-binary-trees) |
