@@ -1,52 +1,61 @@
 class Node {
-public:
-    Node* links[26] = {NULL};
+    public:
+    Node *links[26] = {NULL};
     bool flag = false;
 
-    // Node() { flag = false; }
-
-    bool findWord(char ch) { return links[ch - 'a'] != NULL; }
-    void put(char ch, Node* node) { links[ch - 'a'] = node; }
-    Node* get(char ch) { return links[ch - 'a']; }
-    void setEnd() { flag = true; }
-    bool isEnd() { return flag ; }
+    bool findWord(char ch) {
+        return links[ch - 'a'] != NULL;
+    }
+    Node *get(char ch) {
+        return links[ch - 'a'];
+    }
+    bool isEnd() {
+        return flag;
+    }
+    void setEnd() {
+        flag = true;
+    }
+    void addWord(char ch, Node *node) {
+        links[ch - 'a'] = node;
+    }
 };
 class Trie {
-private:
-    Node* root;
-
 public:
-    Trie() { root = new Node(); }
-
+    Node* root;
+    Trie() {
+        root = new Node();
+    }
+    
     void insert(string word) {
         Node* node = root;
 
         for (int i = 0; i < word.size(); i++) {
-            // cout<<word[i]<<endl;
-            if (!node->findWord(word[i])) {
-                node->put(word[i], new Node());
+            if (not node->findWord(word[i])) {
+                node->addWord(word[i], new Node());
             }
             node = node->get(word[i]);
         }
         node->setEnd();
     }
-
+    
     bool search(string word) {
         Node* node = root;
 
         for (int i = 0; i < word.size(); i++) {
-            if (! node->findWord(word[i])) {
+            if (not node->findWord(word[i])) {
                 return false;
             }
             node = node->get(word[i]);
         }
-        return node->isEnd();
+        if (not node->isEnd()) return false;
+        return true;
     }
-
+    
     bool startsWith(string prefix) {
         Node* node = root;
+
         for (int i = 0; i < prefix.size(); i++) {
-            if ( ! node->findWord(prefix[i])) {
+            if (not node->findWord(prefix[i])) {
                 return false;
             }
             node = node->get(prefix[i]);
