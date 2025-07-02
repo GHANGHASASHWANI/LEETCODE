@@ -1,30 +1,45 @@
-class Solution {
-private:
-    void removeStone(vector<vector<int>> &stones, vector<bool> &visited, int vertex) {
-        visited[vertex] = true;
-
-        for (int index =  0; index < stones.size(); index++) {
-            int row = stones[vertex][0];
-            int col = stones[vertex][1];
-            if (not visited[index] && (stones[index][0] == row || stones[index][1] == col) ) {
-                removeStone(stones, visited, index);
-            }
-        }
+class DisjointSet {
+    public:
+    vector<int> parent;
+    int count;
+    DisjointSet(int size) {
+        parent.resize(size, -1);
+        count = size;
     }
+
+    int findParent(int node) {
+        if (parent[node] == -1) return node;
+
+        return parent[node] = findParent(parent[node]);
+    }
+
+    void Union(int vertex1 , int vertex2) {
+        int parentVertex1 = findParent(vertex1);
+        int parentVertex2 = findParent(vertex2);
+
+        if (parentVertex1 == parentVertex2) {
+            return;
+        }
+
+        parent[parentVertex1] = parentVertex2;
+        count--;
+    }
+
+};
+class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
-        int totalVertex = stones.size();
+        int size = stones.size();
+        DisjointSet set(size); 
 
-        vector<bool> visited(totalVertex, false);
-
-        int total = 0;
-
-        for (int vertex = 0; vertex < totalVertex; vertex++) {
-            if (visited[vertex]) continue;
-
-            removeStone(stones, visited, vertex);
-            total++;
+        for (int vertex1 = 0; vertex1 < size; vertex1++) {
+            for (int vertex2 = vertex1 + 1; vertex2 < size; vertex2++) {
+                    if (stones[vertex1][0] == stones[vertex2][0] || stones[vertex1][1] == stones[vertex2][1]) {
+                        set.Union(vertex1, vertex2);
+                    }
+            }
         }
-        return totalVertex - total;
+
+        return size - set.count;
     }
 };
