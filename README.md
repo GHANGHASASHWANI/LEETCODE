@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Linked List
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3427-special-array-ii) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Design
 |  |
 | ------- |
@@ -737,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1325,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1358,10 +1365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Hash Function
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 ## Divide and Conquer
 |  |
 | ------- |
