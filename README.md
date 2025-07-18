@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3559-minimum-number-of-valid-strings-to-form-target-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3559-minimum-number-of-valid-strings-to-form-target-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
