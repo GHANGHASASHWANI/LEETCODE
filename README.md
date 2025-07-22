@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1753-path-with-minimum-effort](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1777-determine-if-two-strings-are-close) |
+| [1813-maximum-erasure-value](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1262,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1813-maximum-erasure-value](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1813-maximum-erasure-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/2868-continuous-subarrays) |
