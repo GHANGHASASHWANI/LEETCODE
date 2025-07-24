@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0386-lexicographical-numbers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0146-lru-cache) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0233-number-of-digit-one) |
@@ -1302,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1236-n-th-tribonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/GHANGHASASHWANI/LEETCODE/tree/master/1680-count-all-possible-routes) |
